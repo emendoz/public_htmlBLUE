@@ -1,0 +1,21 @@
+body {
+        color: white;
+}
+h1 {
+        color: black;
+        font-family: monospace;
+}
+table {
+        background-color: #3A7397;
+        padding: 20px;
+}
+th {
+        text-align: center;
+}
+a {
+        color: white;
+        text-decoration: none;
+}
+a:hover {
+        color: #ECCFEE;
+}
